@@ -1,0 +1,11 @@
+
+Standards:
+- Title: Impostorsyndrome
+  UID: 7f9cc8fddf27377a083700ce0ed7defb
+  Description: Impostorsyndrome
+  SuccessCriteria:
+  - success criteria
+  ContentFiles:
+  - Type: Lesson
+    Path: /impostorsyndrome/overview.md
+    UID: 085e52f73c4aebfd0cf1aa93dbd1a9b3

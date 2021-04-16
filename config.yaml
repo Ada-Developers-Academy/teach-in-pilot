@@ -1,11 +1,11 @@
 
 Standards:
-- Title: Impostorsyndrome
-  UID: 7f9cc8fddf27377a083700ce0ed7defb
-  Description: Impostorsyndrome
+- Title: Welcome to the Teach In!
+  UID: 8eeb97cb-e384-49d2-b916-eadc63830dc2 
+  Description: Our first Teach In lesson!
   SuccessCriteria:
   - success criteria
   ContentFiles:
   - Type: Lesson
-    Path: /impostorsyndrome/overview.md
-    UID: 085e52f73c4aebfd0cf1aa93dbd1a9b3
+    Path: /may/overview.md
+    UID: 5bbfc74b-8532-496f-8189-c839b5408931 

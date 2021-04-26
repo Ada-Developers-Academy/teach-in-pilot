@@ -2,34 +2,36 @@
 Standards:
 
   -
-  Title: Kickoff Meeting
-  UID: 90057dfa-4a22-4c01-9fed-d74b602438bb
-  Description: Welcome to the Teach In!
-  SuccessCriteria:
-  - success criteria
-  ContentFiles:
-  - Type: Lesson
-    Path: /kickoff/overview.md
-    UID: e0a1f3cb-8fb1-414c-b863-8e3a90efb3ef 
-    
+    Title: Kickoff Meeting
+    Description: Welcome to the Teach In!
+    UID: 90057dfa-4a22-4c01-9fed-d74b602438bb
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - 
+       Type: Lesson
+       UID: e0a1f3cb-8fb1-414c-b863-8e3a90efb3ef 
+       Path: /kickoff/overview.md
   -
-  Title: Racism & Intersectionality
-  UID: c8cd308a-a2d2-46c0-b06d-a291a9f26506
-  Description: Our topic for May
-  SuccessCriteria:
-  - success criteria
-  ContentFiles:
-  - Type: Lesson
-    Path: /racism-intersectionality/overview.md
-    UID: 85056e70-461e-43e9-be3f-8b09e1ba43e6 
+    Title: Racism & Intersectionality 
+    Description: Our topic for May
+    UID: c8cd308a-a2d2-46c0-b06d-a291a9f26506
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - 
+       Type: Lesson
+       UID: 85056e70-461e-43e9-be3f-8b09e1ba43e6 
+       Path: /racism-intersectionality/overview.md
 
   -
-  Title: Resource Library
-  UID: d31b1693-031e-4f8c-a691-9d47ae53db14 
-  Description: One stop shop for resources
-  SuccessCriteria:
-  - success criteria
-  ContentFiles:
-  - Type: Lesson
-    Path: /resource-library/resources.md
-    UID: b95c0b8f-6d1d-4795-a8a0-bdcfa37a7e85
+    Title: Resource Library
+    Description: One stop shop for resources
+    UID: d31b1693-031e-4f8c-a691-9d47ae53db14
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - 
+       Type: Lesson
+       UID: b95c0b8f-6d1d-4795-a8a0-bdcfa37a7e85
+       Path: /resource-library/resources.md

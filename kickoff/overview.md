@@ -8,3 +8,6 @@ There are a few short pieces of pre-work that we ask you to complete before you 
 
 - [Watch this video](https://www.youtube.com/watch?v=sWP92i7JLlQ) about the idea of intersectionality. 
 - [Fill out this identity wheel](https://drive.google.com/file/d/15GjuamanM0sXI-NtOTWTbcGJpOR7M4Mx/view) and consider your answers to the reflection questions. You will not be asked to share those answers if you don't feel comfortable.
+
+## Optional Further Resources
+- [Listen to this interview](https://drive.google.com/file/d/1FE7Bf6IfALOUUKRTzjh6KhCGw0H3Yf2w/view) with the Founder of Ada, Scott Case, to hear about how Ada was created some of the blindspots the founders realized they had.

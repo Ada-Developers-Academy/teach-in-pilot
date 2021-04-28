@@ -2,11 +2,11 @@
 
 We are so excited to get to know you and welcome you into this program during our kickoff meeting on Thursday, May 6 from 4-5:30pm. We've heard that this might be slightly too late for some folks so we will make sure that future events happen earlier in the day!
 
-## Pre-work
+## Follow Up
 
 There are a few short pieces of pre-work that we ask you to complete before you join us for the kick-off. If you’re unable to join the kickoff, we highly recommend still completing these as they will help you understand and engage with our discussions in the future.
 
-- [Watch this video](https://www.youtube.com/watch?v=sWP92i7JLlQ) about the idea of intersectionality. 
+- [Watch this video](https://www.youtube.com/watch?v=sWP92i7JLlQ) on intersectionality featuring Kimberlé W. Crenshaw. Crenshaw’s work has been foundational in critical race theory and in “intersectionality,” a term she coined to describe the double bind of simultaneous racial and gender prejudice. 
 - [Fill out this identity wheel](https://drive.google.com/file/d/15GjuamanM0sXI-NtOTWTbcGJpOR7M4Mx/view) and consider your answers to the reflection questions. You will not be asked to share those answers if you don't feel comfortable.
 
 ## Optional Further Resources

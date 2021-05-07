@@ -2,6 +2,8 @@
 
 We are so excited to get to know you and welcome you into this program during our kickoff meeting on Thursday, May 6 from 4-5:30pm. We've heard that this might be slightly too late for some folks so we will make sure that future events happen earlier in the day!
 
+<iframe src="https://drive.google.com/file/d/162S1nCvCj8jWVsxV65FQyelKbKLnARlX/preview" width="640" height="480"></iframe>
+
 ## Follow Up
 
 There are a few short pieces of pre-work that we ask you to complete before you join us for the kick-off. If you’re unable to join the kickoff, we highly recommend still completing these as they will help you understand and engage with our discussions in the future.

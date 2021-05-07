@@ -4,6 +4,9 @@ We are so excited to get to know you and welcome you into this program during ou
 
 <iframe src="https://drive.google.com/file/d/162S1nCvCj8jWVsxV65FQyelKbKLnARlX/preview" width="640" height="480"></iframe>
 
+## Slides
+- [Here are the slides](https://docs.google.com/presentation/d/14Bp60OD4V7gJIQqTNqnnsy5Cf9Lu_vM6agPih4DSfTI/edit?usp=sharing) if you want to reference them.
+
 ## Follow Up
 
 There are a few short pieces of pre-work that we ask you to complete before you join us for the kick-off. If you’re unable to join the kickoff, we highly recommend still completing these as they will help you understand and engage with our discussions in the future.

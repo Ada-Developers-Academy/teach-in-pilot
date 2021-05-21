@@ -9,8 +9,7 @@ Note: We will also have an additional, optional conversation about the identity 
 
 ## Recording
 
-[Meeting Recording:]
-(https://us02web.zoom.us/rec/share/2f6f-WJgZVVlVTy2f34bmmYhDKZT2MrjH2eCEMTyT9p1dUkjR_82jGLkCSFUVQGW.qFwkg0F1e1_TnX_2)
+[Meeting Recording](https://us02web.zoom.us/rec/share/2f6f-WJgZVVlVTy2f34bmmYhDKZT2MrjH2eCEMTyT9p1dUkjR_82jGLkCSFUVQGW.qFwkg0F1e1_TnX_2)
 
 Access Passcode: ADA!2021
 

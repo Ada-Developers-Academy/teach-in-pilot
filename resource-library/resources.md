@@ -13,7 +13,8 @@ Here are some additional, optional resources for you to engage with around the d
 - [Read "Stop Telling Women They Have Impostor Syndrome"](https://drive.google.com/file/d/1jNOukGPSvcM9NT7h1_F1mNL1CcM1nytQ/view), a great article that reflects our first live session.
 
 ## Gender Identity & Expression
-- Resources to come
+- [Watch this video](https://www.youtube.com/watch?v=NCLoNwVJA-0) on the importance of understanding someone else's gender. 
+- [Watch this video](https://www.youtube.com/watch?v=xCMmZUu07IQ) about what are sexual orientation and gender identity. 
 
 ## White Supremacy & Institutional Power 
 - Resources to come

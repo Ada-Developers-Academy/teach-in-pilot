@@ -15,6 +15,7 @@ Here are some additional, optional resources for you to engage with around the d
 ## Gender Identity & Expression
 - [Watch this video](https://www.youtube.com/watch?v=NCLoNwVJA-0) on the importance of understanding someone else's gender. 
 - [Watch this video](https://www.youtube.com/watch?v=xCMmZUu07IQ) about what are sexual orientation and gender identity. 
+- There would be no pride month without the advocacy of Black queer activists. Please read more about the history of pride and Black queer activism here: [First Pride Riot History](https://www.refinery29.com/en-us/2020/06/9861317/first-pride-riots-history-black-lgbtq-blm)
 
 ## White Supremacy & Institutional Power 
 - Resources to come

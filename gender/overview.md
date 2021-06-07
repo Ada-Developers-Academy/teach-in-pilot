@@ -13,7 +13,7 @@ To help get us on the same page in our discussions please watch [this video](htt
 
 [This](https://drive.google.com/file/d/1lY8_lsSk-7Gu3RCOX8nQqhju8z3BfyWR/view) is a recorded fireside chat between Jenna Hanchard, the Director of Culture and Learning at Ada Developers Academy and [Lily Zheng](https://www.google.com/url?q=https://lilyzheng.co/&sa=D&source=editors&ust=1623100885626000&usg=AOvVaw0V6IckrgzvO8TccMtOELzT), Diversity Equity Inclusion strategist and consultant and author of Gender Ambiguity in the Workplace.
 
-While this is a conversation that everyone can listen, to our conversation is geared toward supporting cisgender managers and workplace leaders who are working to build a trans-includive workplace and an inclusive working place gender explansive folks. 
+While this is a conversation that everyone can listen to, our fireside chat is geared toward supporting cisgender managers and workplace leaders who are working to build a trans-inclusive workplace and an inclusive working place gender explansive folks. 
 
 ## Further Resources
 

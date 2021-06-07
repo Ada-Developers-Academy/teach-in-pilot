@@ -25,6 +25,18 @@ Standards:
        Path: /racism-intersectionality/overview.md
 
   -
+    Title: Gender Identity & Expression 
+    Description: Our topic for June
+    UID: 493fd073-3e56-43de-b4d6-fdf59992dbf3 
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - 
+       Type: Lesson
+       UID: cbe8058f-e730-45ad-abc8-c6f041ccb179  
+       Path: /gender/overview.md
+
+  -
     Title: Resource Library
     Description: One stop shop for resources
     UID: d31b1693-031e-4f8c-a691-9d47ae53db14
